@@ -1,0 +1,8 @@
+test
+<<<<<<< HEAD
+testbranche 2
+testMaster
+testMaster2
+=======
+testbranche 45
+>>>>>>> test45
